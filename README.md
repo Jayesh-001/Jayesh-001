@@ -1,8 +1,9 @@
 # Hi there, I'm Jayesh! 👋
 
-### 📐 Analyzing the World through Code, Math, and Physics.
+### 🎓 MCA Student (AI/ML) @ UPES | BSc Mathematics (Hons) @ DU
 
-I am a Software Developer and Aspiring Data Scientist passionate about the intersection of Artificial Intelligence and Mathematical modeling. I don't just write code; I use it to solve complex problems and uncover patterns in data.
+I am a Data Scientist and Developer who bridges the gap between **Pure Mathematics** and **Artificial Intelligence**.
+With a strong foundation in mathematical theory and specialized training in AI/ML , I build algorithms that are not just functional, but mathematically sound and optimized.
 
 ---
 
@@ -15,20 +16,20 @@ I am a Software Developer and Aspiring Data Scientist passionate about the inter
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white)
 
-**Interests:**
-* 🤖 **Machine Learning & AI:** Building predictive models and intelligent systems.
-* 📊 **Data Analysis:** Extracting actionable insights from raw datasets.
-* ⚛️ **Physics & Math:** Applying theoretical concepts to computational simulations.
+**Core Competencies:**
+* 🧠 **Artificial Intelligence:** Deep Learning, Neural Networks, and NLP.
+* 📐 **Mathematical Modeling:** Linear Algebra, Calculus, and Probability applied to Code.
+* 📊 **Data Science:** Feature Engineering, Statistical Analysis, and Visualization.
 
 ---
 
 ### ⚡ Beyond the Keyboard
 
-When I'm not training models or debugging code, I focus on strategy, strength, and creativity:
-* ♟️ **Chess:** Sharpening strategic thinking.
-* 🏸 **Badminton:** Staying agile.
-* 🏋️ **Weightlifting:** Building discipline and strength.
-* 🎸 **Guitar:** Exploring the creative side of sound.
+I believe that a strong body fuels a strong mind. When I'm not deriving formulas or training models, you can find me here:
+* ♟️ **Chess:** Strategic thinking (1400+ ELO).
+* 🏸 **Badminton:** Speed and agility.
+* 🏋️ **Weightlifting:** Discipline and consistency.
+* 🎸 **Guitar:** Creativity and flow.
 
 ---
 
@@ -42,4 +43,4 @@ When I'm not training models or debugging code, I focus on strategy, strength, a
 ---
 
 ### 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/your-linkedin-url) | [Email](mailto:your-email@example.com)
+[LinkedIn](www.linkedin.com/in/jayesh-adhikari-02b21a221) | [Email](mailto:jayesh.adhikari001@gmail.com)
