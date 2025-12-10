@@ -26,7 +26,7 @@ With a strong foundation in mathematical theory and specialized training in AI/M
 ### ⚡ Beyond the Keyboard
 
 I believe that a strong body fuels a strong mind. When I'm not deriving formulas or training models, you can find me here:
-* ♟️ **Chess:** Strategic thinking (1400+ ELO).
+* ♟️ **Chess:** Strategic thinking.
 * 🏸 **Badminton:** Speed and agility.
 * 🏋️ **Weightlifting:** Discipline and consistency.
 * 🎸 **Guitar:** Creativity and flow.
