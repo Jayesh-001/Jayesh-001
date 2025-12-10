@@ -35,11 +35,8 @@ I believe that a strong body fuels a strong mind. When I'm not deriving formulas
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayesh-001&show_icons=true&theme=radical" alt="Jayesh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-001&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
+![Jayesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayesh-001&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-001&layout=compact&theme=radical)
 ---
 
 ### 📫 Connect with Me
