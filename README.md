@@ -1,51 +1,45 @@
-# [Project Name] 🚀
+=# Hi there, I'm Jayesh! 👋
 
+### 📐 Analyzing the World through Code, Math, and Physics.
+
+I am a Software Developer and Aspiring Data Scientist passionate about the intersection of Artificial Intelligence and Mathematical modeling. I don't just write code; I use it to solve complex problems and uncover patterns in data.
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white)
 
-> A brief, catchy one-sentence slogan describing what this project does.
-
----
-
-## 📖 Table of Contents
-- [About the Project](#-about-the-project)
-- [Key Features](#-key-features)
-- [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
-- [Demo / Screenshots](#-demo--screenshots)
-- [Future Improvements](#-future-improvements)
+**Interests:**
+* 🤖 **Machine Learning & AI:** Building predictive models and intelligent systems.
+* 📊 **Data Analysis:** Extracting actionable insights from raw datasets.
+* ⚛️ **Physics & Math:** Applying theoretical concepts to computational simulations.
 
 ---
 
-## 🧐 About the Project
-*Explain the "Why" here. Don't just say what it is, say what problem it solves.*
+### ⚡ Beyond the Keyboard
 
-**Example:**
-I created this system because I noticed that tracking inventory manually was error-prone. This application automates the process, allowing users to add, update, and delete items from a database in real-time.
-
----
-
-## 🌟 Key Features
-* **Feature 1:** (e.g., Real-time data synchronization with MySQL)
-* **Feature 2:** (e.g., User Authentication with secure login)
-* **Feature 3:** (e.g., Interactive Dashboard for data visualization)
+When I'm not training models or debugging code, I focus on strategy, strength, and creativity:
+* ♟️ **Chess:** Sharpening strategic thinking.
+* 🏸 **Badminton:** Staying agile.
+* 🏋️ **Weightlifting:** Building discipline and strength.
+* 🎸 **Guitar:** Exploring the creative side of sound.
 
 ---
 
-## 🛠 Tech Stack
-* **Language:** (e.g., Java / Python)
-* **Database:** (e.g., MySQL / SQLite)
-* **Tools:** (e.g., VS Code, JDBC, Pandas, Scikit-Learn)
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayesh-001&show_icons=true&theme=radical" alt="Jayesh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-001&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
-## 💻 Getting Started
-
-### Prerequisites
-* List what software needs to be installed (e.g., Java JDK 17, Python 3.9).
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+### 📫 Connect with Me
+[LinkedIn](https://linkedin.com/in/your-linkedin-url) | [Email](mailto:your-email@example.com)
