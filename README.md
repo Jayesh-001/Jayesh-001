@@ -1,4 +1,4 @@
-=# Hi there, I'm Jayesh! 👋
+# Hi there, I'm Jayesh! 👋
 
 ### 📐 Analyzing the World through Code, Math, and Physics.
 
