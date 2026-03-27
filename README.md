@@ -35,9 +35,9 @@ I believe that a strong body fuels a strong mind. When I'm not deriving formulas
 
 ### 📈 GitHub Stats
 
-![Jayesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayesh-001&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
+![Jayesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayesh-001&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&v=1)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-001&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ### 📫 Connect with Me
-[LinkedIn](www.linkedin.com/in/jayesh-adhikari-02b21a221) | [Email](mailto:jayesh.adhikari001@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jayesh-adhikari-02b21a221) | [Email](mailto:jayesh.adhikari001@gmail.com)
